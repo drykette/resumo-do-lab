@@ -8,3 +8,10 @@ Atém dos tipos: Publico, privado e hibrido.
 Publico: São serviços onde todos podem usar e armazenar suas informações, totalmente em nuvem. 
 Privado: Onde tudo fica armazenado em datacenter local, só na empresa mesmo, sem contato com o mundo exterior. 
 Hibrido: Quando o servidor fica parte da nuvem e parte localmente, dando mais segurança e flexibilidade pra empresa. 
+
+<h1>Segundo Captulo</h1>
+
+<h2>Beneficios da Nuvem Azure</h2>
+
+Até aqui vimos os beneficios de uma Nuvem Azure e os conceitos basicos. Beneficios de Alta Diponibilidade, Escabilidade, Confiança, Previsibilidade, Confiança, Governança, Capacidade e Gerenciamento.  
+
