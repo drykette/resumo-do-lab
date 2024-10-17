@@ -38,5 +38,8 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 * Aplicações/ apps hospedados. 
 * Os usuários se conectam e usam aplicativos com base em nuvem pela internet, por exemplo: Microsoft office, email e calendarios. 
 
+<h2>Computação e Rede</h2>
 
-
+* Até aqui vemos os tipos de computação, instâncias de conteiners, maquinas virtuais e funções.
+* Opções de hospedagem de aplicativos, aplicativos web, conteiners e maquinas virtuais.
+* Redes virtuais, sub-redes, emparelhamento, DNS do gateway de VPN e do ExpressRoute. 
