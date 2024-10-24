@@ -61,7 +61,7 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 *TABELA do Azure: Fornece uma opção de chave/atributo para armazenamento ESTRUTURADO não relacionais. 
 *Camadas de acesso de armazanamento do Azure:  Frequente(Acessados com frequencia), Esporádico(Acessados em pelo menos 30 dias), Frio(Acessados em pelo menos 90 dias) e Arquivo morto(Acessados em pelo menos 180 dias). 
 *Migração para o Azure:
-*        Azure DATA BOX até 80Terabytes - Caixa Física.
+*        Azure DATA BOX até 80Terabytes - Caixa Física - DATA BOX DISK(PEQUENO ATÉ 32TB) - DATA BOX(UM GABINETE COM MAIS CAPACIDADE) - DATA BOX HEAVY(UM CARRINHO COM MUITO MAIS CAPACIDADE ATÉ 80TB) 
 *        AzCopy - Utiliza linha de comando - Copia BLOBS ou ARQUIVOS de ou para sua conta de armazenamento - Sincronização em uam direção. 
 *        Gerenciador de Armazenamento - Interface gráfica do usuário(semelhante ao windows explore) - Compativel com windows, linux e mac.
 *        Sincronização de Arquivos do Azure - Sincroniza de forma bidimencional - Mantém arquivos acessads com frequencia no local enquanto libera espaço. 
