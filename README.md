@@ -42,4 +42,30 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 
 * Até aqui vemos os tipos de computação, instâncias de conteiners, maquinas virtuais e funções.
 * Opções de hospedagem de aplicativos, aplicativos web, conteiners e maquinas virtuais.
-* Redes virtuais, sub-redes, emparelhamento, DNS do gateway de VPN e do ExpressRoute. 
+* Redes virtuais, sub-redes, emparelhamento, DNS do gateway de VPN e do ExpressRoute.
+
+  
+<h2>Armazenamento</h2>
+
+* Até aqui vemos os tipos de armazenamento do Azure.
+* Contas de armazenamento, onde deve se ter um nome globalmente exclusivo. 
+* Redundância de armazanamento:
+*       LRS (Armazenamento com redundancia LOCAL) --- DURABILIDADE --- 11 NOVES
+*       ZRS (Armazenamento com redundancia de ZONA) --- DURABILIDADE --- 12 NOVES
+*       GRS (Armazenamento com redundancia GEOGRAFICA) --- DURABILIDADE --- 16 NOVES
+*       GZRS (Armazenamento com redundancia de ZONA GEOGRAFICA) --- DURABILIDADE --- 16 NOVES
+*BLOB do Azure: Armazenamento de quantidade massiva não estruturado, texto ou dados binarios.
+*DISCO do Azure: Fornece disco para VM's, aplicativos e outros.
+*FILA do Azure: Armazenamento de mensagens, em grande quantidades.
+*ARQUIVOS do Azure: Configura um compartilhamento de arquivos de rede altamente disponivel, que pode ser usado usando o protocolo de bloco de mensagens. 
+*TABELA do Azure: Fornece uma opção de chave/atributo para armazenamento ESTRUTURADO não relacionais. 
+*Camadas de acesso de armazanamento do Azure:  Frequente(Acessados com frequencia), Esporádico(Acessados em pelo menos 30 dias), Frio(Acessados em pelo menos 90 dias) e Arquivo morto(Acessados em pelo menos 180 dias). 
+*Migração para o Azure:
+*        Azure DATA BOX até 80Terabytes - Caixa Física.
+*        AzCopy - Utiliza linha de comando - Copia BLOBS ou ARQUIVOS de ou para sua conta de armazenamento - Sincronização em uam direção. 
+*        Gerenciador de Armazenamento - Interface gráfica do usuário(semelhante ao windows explore) - Compativel com windows, linux e mac.
+*        Sincronização de Arquivos do Azure - Sincroniza de forma bidimencional - Mantém arquivos acessads com frequencia no local enquanto libera espaço. 
+
+
+
+
