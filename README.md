@@ -54,18 +54,28 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 *       ZRS (Armazenamento com redundancia de ZONA) --- DURABILIDADE --- 12 NOVES
 *       GRS (Armazenamento com redundancia GEOGRAFICA) --- DURABILIDADE --- 16 NOVES
 *       GZRS (Armazenamento com redundancia de ZONA GEOGRAFICA) --- DURABILIDADE --- 16 NOVES
-*BLOB do Azure: Armazenamento de quantidade massiva não estruturado, texto ou dados binarios.
-*DISCO do Azure: Fornece disco para VM's, aplicativos e outros.
-*FILA do Azure: Armazenamento de mensagens, em grande quantidades.
-*ARQUIVOS do Azure: Configura um compartilhamento de arquivos de rede altamente disponivel, que pode ser usado usando o protocolo de bloco de mensagens. 
-*TABELA do Azure: Fornece uma opção de chave/atributo para armazenamento ESTRUTURADO não relacionais. 
-*Camadas de acesso de armazanamento do Azure:  Frequente(Acessados com frequencia), Esporádico(Acessados em pelo menos 30 dias), Frio(Acessados em pelo menos 90 dias) e Arquivo morto(Acessados em pelo menos 180 dias). 
-*Migração para o Azure:
+*  BLOB do Azure: Armazenamento de quantidade massiva não estruturado, texto ou dados binarios.
+*  DISCO do Azure: Fornece disco para VM's, aplicativos e outros.
+*  FILA do Azure: Armazenamento de mensagens, em grande quantidades.
+*  ARQUIVOS do Azure: Configura um compartilhamento de arquivos de rede altamente disponivel, que pode ser usado usando o protocolo de bloco de mensagens. 
+*  TABELA do Azure: Fornece uma opção de chave/atributo para armazenamento ESTRUTURADO não relacionais. 
+*  Camadas de acesso de armazanamento do Azure:  Frequente(Acessados com frequencia), Esporádico(Acessados em pelo menos 30 dias), Frio(Acessados em pelo menos 90 dias) e Arquivo morto(Acessados em pelo menos 180 dias). 
+*  Migração para o Azure:
 *        Azure DATA BOX até 80Terabytes - Caixa Física - DATA BOX DISK(PEQUENO ATÉ 32TB) - DATA BOX(UM GABINETE COM MAIS CAPACIDADE) - DATA BOX HEAVY(UM CARRINHO COM MUITO MAIS CAPACIDADE ATÉ 80TB) 
 *        AzCopy - Utiliza linha de comando - Copia BLOBS ou ARQUIVOS de ou para sua conta de armazenamento - Sincronização em uam direção. 
 *        Gerenciador de Armazenamento - Interface gráfica do usuário(semelhante ao windows explore) - Compativel com windows, linux e mac.
-*        Sincronização de Arquivos do Azure - Sincroniza de forma bidimencional - Mantém arquivos acessads com frequencia no local enquanto libera espaço. 
+*        Sincronização de Arquivos do Azure - Sincroniza de forma bidimencional - Mantém arquivos acessads com frequencia no local enquanto libera espaço.
 
+<h2>Armazenamento</h2>
+
+* Até aqui vemos os meios de Identidade, Acesso e Segurança.
+* Serviços de Diretorio incluem o Microsoft Entra ID e o Microsoft Entra Domain Services.
+* Metodos de autenticação Azure: SSO(logon Unico), MFA(Autenticação multifator) e sem senha.
+* Identidades externas e o acesso de convidados no Azure.
+* Acesso condicional do Entra.
+* Controle de acesso baseado em função(RBAC).
+* Confiança Zero.
+  
 
 
 
