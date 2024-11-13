@@ -94,5 +94,11 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 * Gerenciamento de custos do Azure: Relatorios.
 * Marcas/Tags: Fornecem metadados aos recursos, organizam os mesmo em uma taxonomia de maneira logica, consistencia em um par nome-valor, muito uteis para reunir informações de cobrança.
 *       Marcas não são obrigatorias e não são herdadas. 
-
+* Azure Policy: Ajuda a IMPOR padrões organizacionais e a avaliação a conformidade em escala. Ele fornece GOVERNANÇA e CONSISTENCIA de recursos com a conformidade regulatória, segurança, custo, e gerenciamento.
+* Bloqueio de Recurso: Gerencia bloqueios na assinaura, grupos de recursos, ou niveis de recursos individuais dentro do portal do azure.
+*       Bloqueios são herdaveis.
+*   Microsoft Purview: Da familia de soluções de gonervança, risco, e conformidade. Dados locais, multinuvem e de software como serviço.
+*       Descoberta de dados automatizada.
+*       Classificação de dados confidenciais.
+*       Linhagem de dados de ponta a ponta. 
 
