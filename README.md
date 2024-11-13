@@ -43,7 +43,8 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 * Até aqui vemos os tipos de computação, instâncias de conteiners, maquinas virtuais e funções.
 * Opções de hospedagem de aplicativos, aplicativos web, conteiners e maquinas virtuais.
 * Redes virtuais, sub-redes, emparelhamento, DNS do gateway de VPN e do ExpressRoute.
-
+* 
+<h1>Segundo Captulo</h1>
   
 <h2>Armazenamento</h2>
 
@@ -76,6 +77,22 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 * Controle de acesso baseado em função(RBAC).
 * Confiança Zero.
   
+<h1>Terceiro Captulo</h1>
+<h2>Gerenciamento e Governança</h2>
 
+* Fatores que afetam dos custos:
+*        1) Tipo de Recurso
+*        2) Consumo
+*        3) Manutenção
+*        4) Area Geografica
+*        5) Trafego de Rede
+*        6) Assinatura
+
+* Azure Marketplace: Quando recursos que não são do microsoft no Azure marketplace dão problema é preciso contatar o fabricante do mesmo, não do microsoft.
+* Calculadora de Preços: Estima o custo dos produtos Azure. 
+* Calculadora de custos total de priodidade(TCO): Uma ferramenta para estimar a economia de custos possivel ao migrar para o Azure.
+* Gerenciamento de custos do Azure: Relatorios.
+* Marcas/Tags: Fornecem metadados aos recursos, organizam os mesmo em uma taxonomia de maneira logica, consistencia em um par nome-valor, muito uteis para reunir informações de cobrança.
+*       Marcas não são obrigatorias e não são herdadas. 
 
 
