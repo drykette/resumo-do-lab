@@ -100,5 +100,25 @@ SaaS - Software como serviço: Modelo de preço de pagamento conforme o uso (lic
 *   Microsoft Purview: Da familia de soluções de gonervança, risco, e conformidade. Dados locais, multinuvem e de software como serviço.
 *       Descoberta de dados automatizada.
 *       Classificação de dados confidenciais.
-*       Linhagem de dados de ponta a ponta. 
+*       Linhagem de dados de ponta a ponta.
+*Ferramenta de implantação de recursos: Portal, poweshell, CL1 (tipo cmd).
+*Azure ARC e Azure Resource Menager. 
+*Azure ARC: Administra o que está fora do AZURE, e não existe nada equivalente a ele no mercado. 
+*ARM(Azure Resource Menager: O ARM fornece uma camada de gerenciamente que permite criar, atualizar e excluir recursos na assinatura AZURE. 
+*      Modelos ARM: Os modelos ARM são arquivos em JSON que podem ser usados para criar, implantar a insfraestrutura do AZURE sem a necessidade de escrever comandos de programaçao. 
+*      Sintaxe Declarativa, Resultados repetiveis, Orquestração, Arquivos modulares, Validação integrada, Codigo exportavel. 
+*Insfraentrutura de codigo: Garanta constancia na impnatação em todo o ecossistema de nuvem, gerencia a configuração em escala, provisione rapidamente.
+*Bicep: Linguagem especifica de DSL que usa sintaxe declarativa para implantar recursos apenas dentro do azure. 
+
+
+
+
+
+
+
+
+
+
+
+
 
